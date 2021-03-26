@@ -7,7 +7,7 @@
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-  <img src= "https://github.com/murateshimov/project-05/blob/main/Anonymous.svg.png">
+  <img src= "svg.png">
   <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700' rel='stylesheet' type='text/css'>
   
 <div class="container">
